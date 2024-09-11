@@ -28,8 +28,8 @@ pip install -r requirements.txt
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/usuario/sistema-cifrado-hibrido.git
-cd sistema-cifrado-hibrido
+git clone https://github.com/lpedraoss/CipherBox.git
+cd cipherbox
 ```
 
 2. Crea y activa un entorno virtual:
